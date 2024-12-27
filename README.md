@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @QiLai1998
+- 👋 Hi, I’m @QiQi-L
 - 👀 I’m interested in computer vision, deep learning and bioimage analysis;
 - 🌱 I’m currently learning to solve some scientific issues;
 - 💞️ I’m looking to collaborate on Recognition Algorithm Development;
